@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Parsa 👋
 
-<!--
-**Sabaghip/Sabaghip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building AI agents and full-stack systems — currently studying Computer Science at the University of Bonn, focused on computer vision and neural networks.
 
-Here are some ideas to get you started:
+**Stack:** Python · TypeScript · Kotlin · LangGraph · Playwright · PyTorch · OpenCV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:** backend/full-stack engineering work alongside coursework in neural networks, computer vision, and NLP (search engines, IR, data mining).
+
+📫 [LinkedIn](https://linkedin.com/in/parsa-sabaghi-50715522b)
+
+**Currently building:**
+- 🤖 [`jobscout`](https://github.com/Sabaghip/jobscout) — an agent that scrapes company career pages with Playwright, extracts structured listings via LLM, and surfaces them through a CLI/Tkinter viewer
+- 🎯 [`lead-qualifier-agent`](https://github.com/Sabaghip/lead-qualifier-agent) — an LLM-driven agent for automated lead qualification
