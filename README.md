@@ -1,5 +1,4 @@
-# Hi, I'm Parsa 👋
-
+# Hi, I'm Parsa (Mohamadhosein) Sabaghi 👋
 Software engineer building AI agents and full-stack systems — currently studying Computer Science at the University of Bonn, focused on computer vision and neural networks.
 
 **Stack:** Python · TypeScript · Kotlin · LangGraph · Playwright · PyTorch · OpenCV
